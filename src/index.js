@@ -22,10 +22,5 @@ else{
 }
 
 
-
-
-
-
-
 //install
 //npm i bootstrap font-awesome
